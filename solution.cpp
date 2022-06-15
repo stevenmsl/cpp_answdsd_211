@@ -14,6 +14,10 @@ using namespace sol235;
 using namespace std;
 
 /*takeaways
+  - build a trie tree
+  - pay attention to the exit condition
+    of the _search method
+  - Time complexity: O(n*l)
 
 */
 WordDictionary::WordDictionary()
